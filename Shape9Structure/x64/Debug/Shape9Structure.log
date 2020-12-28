@@ -1,0 +1,24 @@
+﻿Build started 1/22/2017 11:11:09 PM.
+     1>Project "C:\Users\Shoeb\Documents\Visual Studio 2013\Projects\GShapeStructure\GShapeStructure\GShapeStructure.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt TwoPlatesG.cpp
+         TwoPlatesG.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shoeb\Documents\Visual Studio 2013\Projects\GShapeStructure\x64\Debug\GShapeStructure.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Shoeb\Documents\Visual Studio 2013\Projects\GShapeStructure\x64\Debug\GShapeStructure.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shoeb\Documents\Visual Studio 2013\Projects\GShapeStructure\x64\Debug\GShapeStructure.lib" /MACHINE:X64 x64\Debug\GShapeStructure.res
+         x64\Debug\BasePlate.obj
+         x64\Debug\Cmplx.obj
+         x64\Debug\GShapePlate.obj
+         x64\Debug\GShapeStructure.obj
+         x64\Debug\Mymatlib.obj
+         x64\Debug\RMatrix.obj
+         x64\Debug\RVektor.obj
+         x64\Debug\SmallSquare.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\TwoPlatesG.obj
+         x64\Debug\Vector.obj
+         GShapeStructure.vcxproj -> C:\Users\Shoeb\Documents\Visual Studio 2013\Projects\GShapeStructure\x64\Debug\GShapeStructure.exe
+     1>Done Building Project "C:\Users\Shoeb\Documents\Visual Studio 2013\Projects\GShapeStructure\GShapeStructure\GShapeStructure.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.08
